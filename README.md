@@ -3,17 +3,22 @@ use zip for curseforge or prismlauncher
 use mrpack for modrinth
 
 mods:
+```
 Ad Astra
 AppleSkin
 Architectury
 Balm
+BetterF3
 Botarium
 Caelus API
 Carry On
+Chat Heads
 Chunky
 Cloth Config v10 API
 Clumps
 Connector Extras
+Continuity
+Crash Assistant
 Create
 Create Crafts & Additions
 Create Deco
@@ -31,22 +36,38 @@ Curios API
 Customizable Player Models
 DimToggle
 Dimensional World Border
+Embeddium
+Entity Model Features
+Entity Texture Features
+EntityCulling
+Essential Mod
 Ferrite Core
 Forgified Fabric API
 GeckoLib 4
+ImmediatelyFast
 Jack's Economy (Forked)
+Jade
 Just Enough Items
 Kotlin for Forge
 Lithostitched
 LuckPerms
 Memory Leak Fix
 MezzConfig
+ModernFix
+Mouse Tweaks
 NetherPortalFix
+Oculus
 Origins
+Origins++
+Origins: Classes
+PacketFixer
+Pehkui
 Resourceful Lib
 Resourcefulconfig
+ShulkerBoxTooltip
 Simple Voice Chat
 Sinytra Connector
+TDA Origins 1.2.0
 Tectonic
 TerraBlender
 The Twilight Forest
@@ -70,3 +91,4 @@ YUNG's Bridges
 YUNG's Cave Biomes
 YUNG's Extras
 YUNG's Menu Tweaks
+spark```
